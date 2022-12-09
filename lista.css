@@ -1,0 +1,20 @@
+img{
+    width: 5rem;
+    height: 5rem;
+}
+table{
+    border-spacing: 0.3rem;
+}
+tr:nth-child(even){
+    background-color: rgb(233, 205, 128); 
+}
+td{
+    padding: 0.5rem 1rem;
+}
+th{
+    padding: 0.6rem;
+}
+
+.menu{
+    background-color: rgb(245, 170, 10);
+}
